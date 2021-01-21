@@ -1,0 +1,3 @@
+//! Importante notar que aqui se esta desestructurando en una prop del componente desde antes para poder tomar del otro lado los valores de esa 
+
+//! desestructuracion
